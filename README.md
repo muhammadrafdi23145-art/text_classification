@@ -25,3 +25,12 @@ The models achieve high accuracy in classifying text, with the best model being 
 2. requirements.txt: List of dependencies.
 3. depression_detection_model.pkl: The trained best-performing model.
 4. tfidf_vectorizer.pkl: The fitted TF-IDF vectorizer.
+
+## requirements.txt
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
