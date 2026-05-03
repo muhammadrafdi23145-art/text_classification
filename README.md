@@ -32,6 +32,7 @@ The models achieve high accuracy in classifying text, with the best model being 
 <img width="1543" height="719" alt="image" src="https://github.com/user-attachments/assets/1c47cf1c-c07d-4f4f-982b-3899f7deafdd" />
 
 === Logistic Regression ===
+
 Accuracy: 0.9567
               precision    recall  f1-score   support
 
@@ -44,6 +45,7 @@ Accuracy: 0.9567
 
 
 === Random Forest ===
+
 Accuracy: 0.9606
               precision    recall  f1-score   support
 
@@ -56,6 +58,7 @@ Accuracy: 0.9606
 
 
 === Naive Bayes ===
+
 Accuracy: 0.9005
               precision    recall  f1-score   support
 
