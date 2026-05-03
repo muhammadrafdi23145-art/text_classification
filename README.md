@@ -29,8 +29,10 @@ The models achieve high accuracy in classifying text, with the best model being 
 ## Result
 <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/968be2cc-dd91-4f59-a228-71155405d616" />
 
+
 <img width="1543" height="719" alt="image" src="https://github.com/user-attachments/assets/1c47cf1c-c07d-4f4f-982b-3899f7deafdd" />
 
+## Evaluation
 === Logistic Regression ===
 
 Accuracy: 0.9567
